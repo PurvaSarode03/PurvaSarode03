@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,35:8E2DE2,70:4A00E0,100:00C9FF&height=200&section=header&text=Purva%20Sarode&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Final%20Year%20IT%20Student&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF6EC7&height=200&section=header&text=Purva%20Sarode&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Final%20Year%20IT%20Student&descAlignY=65&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Java+%2B+Spring+Boot+%2B+React+Developer;Final+Year+B.E.+IT+%40+Mumbai+(2026);%23+syntax+changes.+logic+doesn't." alt="Typing SVG" />
 
