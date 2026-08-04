@@ -11,8 +11,8 @@
 ### 👩‍💻 About Me
 
 - 🎓 Final-year **B.E. Information Technology** student, Mumbai University
-- 💻 Java Full-Stack Developer — **Spring Boot + React**
-- 🎯 Aiming for backend/full-stack roles
+-  💻 Java Full-Stack Developer — **Spring Boot + React**
+- 🎯 Aiming for backend/full-stack roles in **fintech**
 - 🧠 Solving DSA in Java daily on LeetCode
 
 <br>
@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurvaSarode03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurvaSarode03&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-gules.vercel.app/api?username=PurvaSarode03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=PurvaSarode03&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <br>
