@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Purva%20Sarode&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Final%20Year%20IT%20Student&descAlignY=65&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Java+%2B+Spring+Boot+%2B+React+Developer;Final+Year+B.E.+IT+%40+Mumbai+(2026);%23+syntax+changes.+logic+doesn't." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Java+%2B+Spring+Boot+%2B+React+Developer;Final+Year+B.E.+IT+%40+Mumbai+(2027);%23+syntax+changes.+logic+doesn't." alt="Typing SVG" />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year **B.E. Information Technology** student, Pravin Patil College of Engineering, Mumbai
+- 🎓 Final-year **B.E. Information Technology** student, Mumbai University
 - 💻 Java Full-Stack Developer — **Spring Boot + React**
-- 🎯 Aiming for backend/full-stack roles in **fintech**
+- 🎯 Aiming for backend/full-stack roles
 - 🧠 Solving DSA in Java daily on LeetCode
 
 <br>
