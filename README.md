@@ -12,7 +12,7 @@
 
 - 🎓 Final-year **B.E. Information Technology** student, Mumbai University
 - 💻 Java Full-Stack Developer — **Spring Boot + React**
-- 🎯 Aiming for backend/full-stack roles in **fintech**
+- 🎯 Aiming for backend/full-stack roles 
 - 🧠 Solving DSA in Java daily on LeetCode
 
 <br>
