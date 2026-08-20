@@ -41,7 +41,9 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PurvaSarode03&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=PurvaSarode03&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)
+<img src="https://github-stats-extended.vercel.app/api?username=PurvaSarode03&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com/?user=PurvaSarode03&theme=tokyonight" />
 
 </div>
 <br>
