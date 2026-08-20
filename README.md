@@ -43,6 +43,8 @@
 
 <img src="https://github-stats-extended.vercel.app/api?username=PurvaSarode03&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=PurvaSarode03&theme=radical&hide_border=true&background=1a1b27&stroke=00d8ff&ring=00d8ff&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PurvaSarode03&theme=react-dark&hide_border=true&area=true)
 <br>
 
 
